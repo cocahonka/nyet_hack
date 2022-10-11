@@ -1,0 +1,11 @@
+name: nyet_hack
+description: The Nyet Hack console game
+version: 1.0.0
+
+environment:
+  sdk: ^2.18.1
+dev_dependencies:
+  very_good_analysis: ^3.1.0
+dependencies:
+  http: ^0.13.5
+  meta: ^1.8.0
